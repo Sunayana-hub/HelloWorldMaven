@@ -37,6 +37,6 @@ public class AppTest
     }
     public void print()
     {
-    println("Test 2 Pass");
+    print("Test 2 Pass");
     }
 }
