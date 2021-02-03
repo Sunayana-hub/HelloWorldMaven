@@ -35,7 +35,7 @@ public class AppTest
     {
         assertTrue( true );
     }
-    public void print()
+    public void testTwo()
     {
     print("Test 2 Pass");
     }
